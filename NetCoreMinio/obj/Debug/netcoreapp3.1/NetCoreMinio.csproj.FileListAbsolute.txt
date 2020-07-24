@@ -1,0 +1,116 @@
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.exe
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.csprojAssemblyReference.cache
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreMinio.StaticWebAssets.Manifest.cache
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreMinio.StaticWebAssets.xml
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.AssemblyInfoInputs.cache
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.AssemblyInfo.cs
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.RazorTargetAssemblyInfo.cache
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\Crc32.NET.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\Minio.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.csproj.CopyComplete
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.deps.json
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.runtimeconfig.json
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.runtimeconfig.dev.json
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.pdb
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.xml
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.dll
+C:\Users\Cloudberry\source\repos\NetCoreMinio\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.pdb
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.exe
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.deps.json
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.runtimeconfig.json
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.runtimeconfig.dev.json
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.pdb
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.xml
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Crc32.NET.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Minio.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.csprojAssemblyReference.cache
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreMinio.StaticWebAssets.Manifest.cache
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreMinio.StaticWebAssets.xml
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.AssemblyInfoInputs.cache
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.AssemblyInfo.cs
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.RazorTargetAssemblyInfo.cache
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.csproj.CopyComplete
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.pdb
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.pdb
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.csprojAssemblyReference.cache
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.AssemblyInfoInputs.cache
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.AssemblyInfo.cs
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.csproj.CoreCompileInputs.cache
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.exe
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.deps.json
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.runtimeconfig.json
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.runtimeconfig.dev.json
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.pdb
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\NetCoreMinio.xml
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Crc32.NET.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Minio.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.RazorTargetAssemblyInfo.cache
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.csproj.CopyComplete
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreMinio.StaticWebAssets.Manifest.cache
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreMinio.StaticWebAssets.xml
+C:\Users\ben burak\Desktop\vs\netcoreMinIO\NetCoreMinio\obj\Debug\netcoreapp3.1\NetCoreMinio.genruntimeconfig.cache
